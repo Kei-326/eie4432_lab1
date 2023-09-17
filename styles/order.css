@@ -89,10 +89,10 @@ input[type="radio"] {
 input[type="submit"] {
     background-color: #de556f;
     color: black;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border:0px;
     cursor: pointer;
 }
